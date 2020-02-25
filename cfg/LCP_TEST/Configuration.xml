@@ -171,7 +171,6 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Document>Приходка</Document>
-			<InformationRegister>ТестРегистр</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
