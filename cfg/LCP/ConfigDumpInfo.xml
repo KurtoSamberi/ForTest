@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="cd7385f2-2399-4c51-8c52-9912f5a00c19" configVersion="d31d1720ace658429563bab2649b951d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="cd7385f2-2399-4c51-8c52-9912f5a00c19" configVersion="d53edb31c5a97744b48cd50329cca5af00000000"/>
 		<Metadata name="Document.Приходка" id="f8b740fe-9fcd-4497-96c0-1fed8c1d70eb" configVersion="c944f4f70614164ba2ab4675180b550d00000000"/>
+		<Metadata name="InformationRegister.ТестРегистр" id="abe884e1-0317-4d81-9232-fb3f5900a638" configVersion="73e0754b63f0c44d9f6b9d4ef4dcfd1300000000">
+			<Metadata name="InformationRegister.ТестРегистр.Dimension.Длина" id="314da7e2-39d5-475f-8001-eb17842bdec5"/>
+			<Metadata name="InformationRegister.ТестРегистр.Dimension.Ширина" id="5719fbab-cfd2-4f63-ac97-8ce0b89407e1"/>
+			<Metadata name="InformationRegister.ТестРегистр.Dimension.Высота" id="5ac27470-ddae-4719-8740-beae8b83a515"/>
+			<Metadata name="InformationRegister.ТестРегистр.Resource.Площадь" id="8b76dc61-9dde-4ee3-8ee5-cea12e1073bf"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="ff1dc327-6dd7-4e58-8709-6f612c253308" configVersion="f33d568beceb664fa52c8874c938322500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
