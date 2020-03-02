@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="cd7385f2-2399-4c51-8c52-9912f5a00c19" configVersion="3caeebb6d5e0b84db4ccd4441e8c945b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="cd7385f2-2399-4c51-8c52-9912f5a00c19" configVersion="3501189bef5681488fd96f67249dd45700000000"/>
 		<Metadata name="Document.ДокументДляПроверки" id="6b495e61-8982-4d72-b97c-e32716568b0a" configVersion="5afb17903f1f2146b9886f83ce7f0bdf00000000"/>
+		<Metadata name="Document.ЕщеОдинДокумент" id="206e8616-f267-4a52-b403-331644bd53b2" configVersion="fa546d4ed176e742843c0e63b2b5824600000000"/>
 		<Metadata name="Document.Приходка" id="f8b740fe-9fcd-4497-96c0-1fed8c1d70eb" configVersion="c944f4f70614164ba2ab4675180b550d00000000"/>
 		<Metadata name="InformationRegister.ТестРегистр" id="abe884e1-0317-4d81-9232-fb3f5900a638" configVersion="73e0754b63f0c44d9f6b9d4ef4dcfd1300000000">
 			<Metadata name="InformationRegister.ТестРегистр.Dimension.Длина" id="314da7e2-39d5-475f-8001-eb17842bdec5"/>

@@ -172,6 +172,7 @@
 			<Language>Русский</Language>
 			<Document>Приходка</Document>
 			<Document>ДокументДляПроверки</Document>
+			<Document>ЕщеОдинДокумент</Document>
 			<InformationRegister>ТестРегистр</InformationRegister>
 		</ChildObjects>
 	</Configuration>
