@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<AccumulationRegister uuid="11f3bca2-1343-40b6-99a3-9126351e77d8">
+		<InternalInfo>
+			<xr:GeneratedType name="AccumulationRegisterRecord.РегистрЗолото" category="Record">
+				<xr:TypeId>43d0dd8c-682f-4f6d-b8ed-3f037fae8eb1</xr:TypeId>
+				<xr:ValueId>c2955ae9-58d1-4955-8f57-04f3647a494f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterManager.РегистрЗолото" category="Manager">
+				<xr:TypeId>b6fcd0d1-b7a8-4380-b5c9-f4763a642a5a</xr:TypeId>
+				<xr:ValueId>3f110c9a-bbee-4498-bd37-869a64ca6ab9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterSelection.РегистрЗолото" category="Selection">
+				<xr:TypeId>a679d5b3-8875-4e08-9592-cab80a1fed40</xr:TypeId>
+				<xr:ValueId>46ae608b-b04c-4ffe-a1fb-260f34bb4d68</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterList.РегистрЗолото" category="List">
+				<xr:TypeId>3df2a406-f2fa-4871-9e36-fffd2557f917</xr:TypeId>
+				<xr:ValueId>be464fab-8a72-4fcb-b79b-3a159aa5a6b6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordSet.РегистрЗолото" category="RecordSet">
+				<xr:TypeId>b70238d5-3f4b-44b9-8066-73974f1488af</xr:TypeId>
+				<xr:ValueId>b4fdec31-590b-40cc-a61d-d724d92bb860</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordKey.РегистрЗолото" category="RecordKey">
+				<xr:TypeId>6ab408aa-9ddc-4916-9b52-80862d3c4f67</xr:TypeId>
+				<xr:ValueId>c632c51f-1650-482e-9a0f-699b0aead101</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>РегистрЗолото</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Регистр золото</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultListForm/>
+			<AuxiliaryListForm/>
+			<RegisterType>Balance</RegisterType>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<FullTextSearch>DontUse</FullTextSearch>
+			<EnableTotalsSplitting>true</EnableTotalsSplitting>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</AccumulationRegister>
+</MetaDataObject>
