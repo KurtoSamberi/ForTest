@@ -2,9 +2,10 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
 		<Metadata name="AccumulationRegister.РегистрЗолото" id="11f3bca2-1343-40b6-99a3-9126351e77d8" configVersion="1276bbe70df2404f81201b9f742c386800000000"/>
-		<Metadata name="Configuration.Конфигурация" id="cd7385f2-2399-4c51-8c52-9912f5a00c19" configVersion="722f65bfbbcd0640a563a4095b2ad35600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="cd7385f2-2399-4c51-8c52-9912f5a00c19" configVersion="073bc22939aaa34b933c649327242d1e00000000"/>
 		<Metadata name="Document.ДокументДляПроверки" id="6b495e61-8982-4d72-b97c-e32716568b0a" configVersion="5afb17903f1f2146b9886f83ce7f0bdf00000000"/>
 		<Metadata name="Document.ЕщеОдинДокумент" id="206e8616-f267-4a52-b403-331644bd53b2" configVersion="fa546d4ed176e742843c0e63b2b5824600000000"/>
+		<Metadata name="Document.НовыйДокументДляТестирования" id="02c4d5da-6b46-4a52-9c6e-33f4b8c56e9f" configVersion="bc4e25b02ae08947b8288b186b3d65ac00000000"/>
 		<Metadata name="Document.Приходка" id="f8b740fe-9fcd-4497-96c0-1fed8c1d70eb" configVersion="ca05ab172980164c935eb53be4d9a4da00000000"/>
 		<Metadata name="Document.Приходка.Form.ФормаТест" id="3ecdc805-7019-4543-b35b-9b6beab73060" configVersion="0711e3d8fdfe014ca3082ae697ce13d100000000"/>
 		<Metadata name="Document.Приходка.Form.ФормаТест.Form" id="3ecdc805-7019-4543-b35b-9b6beab73060.0" configVersion="4bfc0157de4df44e8a4f8eb039e5107900000000"/>

@@ -173,6 +173,7 @@
 			<Document>Приходка</Document>
 			<Document>ДокументДляПроверки</Document>
 			<Document>ЕщеОдинДокумент</Document>
+			<Document>НовыйДокументДляТестирования</Document>
 			<InformationRegister>ТестРегистр</InformationRegister>
 			<AccumulationRegister>РегистрЗолото</AccumulationRegister>
 		</ChildObjects>
